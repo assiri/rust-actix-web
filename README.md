@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to actix-web-posts-api</h1>
+<h1 align="center">Welcome to actix-web-postgresql-api</h1>
 
 
 > REST Api built with Actix web and diesel 
@@ -13,4 +13,5 @@ docker-compose build
 
 ```sh
 docker-compose run
+cargo run
 ```
